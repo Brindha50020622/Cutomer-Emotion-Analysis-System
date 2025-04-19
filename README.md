@@ -1,4 +1,4 @@
-**Customer Emotion Analysis Syatem**
+**Customer Emotion Analysis System**
 
 The Customer Emotion Analysis System, implemented using deep learning
 architecture aims to analyze customer feedback to identify emotional sentiment and key
